@@ -1,2 +1,5 @@
 pytubefix
-whisper
+openai-whisper
+python-dotenv
+openai
+ffmpeg
